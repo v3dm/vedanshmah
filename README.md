@@ -24,7 +24,6 @@
 <a href="https://twitter.com/vedansh_gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedansh_gg" height="30" width="40" /></a>    
 <a href="https://linkedin.com/in/vedansh mahendroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedansh mahendroo" height="30" width="40" /></a>
 <a href="https://instagram.com/vedansh_2005_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedansh_2005_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedm" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vedansh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedansh_" height="30" width="40" /></a>
 
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
