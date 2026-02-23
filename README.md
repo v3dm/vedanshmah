@@ -30,7 +30,7 @@
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,react,fastapi,flask,mysql,git,vercel,vscode" />
   </a>
 </p>
 
